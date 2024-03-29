@@ -1,26 +1,3 @@
-/*-----------------------------------------------------------------------------------
-
-    Template Name: Freelancer - CV and Personal Portfolio Template
-    Template URI: uideck.com
-    Description: Freelancer - CV and Personal Portfolio Template
-    Author: UIdeck
-    Author URI: uideck.com
-    Version: 1.0
-
------------------------------------------------------------------------------------
-
-    CSS INDEX
-    ===================
-
-    01. Theme default CSS
-	02. Header
-    03. Hero
-	04. Footer
-
------------------------------------------------------------------------------------*/
-/*===========================
-      01.COMMON css 
-===========================*/
 @import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800|Open+Sans:400,600,700&display=swap");
 body {
   font-family: "Open Sans", sans-serif;
